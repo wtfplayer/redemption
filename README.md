@@ -3,6 +3,7 @@ I'll be posting scripts each month into this repository and adding the informati
 
 The scripts will be put into sections. The scripts I put into here are meant for pranking in irl and trolling.
 Don't go around talking about this before they get patched 💀 No one want's scripts to get patched ;)
+https://www.roblox.com/users/3784100047/profile
 
 # Crash Script Info
 The "crash" script, that basically just makes a fake screen that makes it look like you're banned but you're really not. (good for trolling)
@@ -32,6 +33,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 
 ![nerds](https://github.com/wtfplayer/redemption/assets/136761546/852bf971-067c-4917-81b8-b05191a5ad1e)
-
-
-(https://www.roblox.com/users/3784100047/profile)
