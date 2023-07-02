@@ -8,7 +8,7 @@ Don't go around talking about this before they get patched 💀 No one want's sc
 The "crash" script, that basically just makes a fake screen that makes it look like you're banned but you're really not. (good for trolling)
 
 Contact me on discord (**folixx**) or twitter (**zxfolix**)
-I honestly don't put effort on updating the readme, so this is probably what is gonna stay in the readme, useful information.
+I honestly don't put effort on updating the readme, so don't expect me to add the info right away.
 
 # Script
 
