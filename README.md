@@ -5,4 +5,5 @@ the first script we have is the "crash" script, that basically just makes a fake
 Contact me on discord (folixx) or twitter (zxfolix)
 
 
-![image](https://github.com/wtfplayer/redemption/assets/136761546/53adfbaa-0c98-4e9b-a6c2-22d7404d7adc)
+![image](![wp](https://github.com/wtfplayer/redemption/assets/136761546/47c20ed2-973b-42a5-99f5-80c05d2c8623)
+)
