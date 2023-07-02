@@ -3,6 +3,7 @@ pull pranks on ur friends or wtv, your choice to do wtv with them.
 
 # Contact Info
 discord - folixx
+
 twitter - zxfolix
 
 # Why I made this
