@@ -15,6 +15,4 @@ loadstring(game:HttpGet("raw.githubusercontent.com/wtfplayer/redemption/main/cra
 (OBFUSCATED)
 
 
-![rcdexample](https://github.com/wtfplayer/redemption/assets/136761546/9e408638-8ee4-4127-aed9-749be3948ad5)
-
-https://github.com/wtfplayer/redemption/assets/136761546/9e408638-8ee4-4127-aed9-749be3948ad5
+![RCS](https://github.com/wtfplayer/redemption/assets/136761546/9e408638-8ee4-4127-aed9-749be3948ad5)
