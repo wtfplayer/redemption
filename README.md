@@ -22,6 +22,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 [SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/crash)
 
-[SOURCE OBFUSCATED V2](https://raw.githubusercontent.com/wtfplayer/redemption/main/crashv2)
+[SOURCE OBFUSCATED V2](https://raw.githubusercontent.com/wtfplayer/redemption/main/crashv2) **IN THE V2 VERSION THE SCRIPT WILL EXECUTE IN 10 SECONDS (CHECK CONSOLE)**
 
 ![crash](https://github.com/wtfplayer/redemption/assets/136761546/0a4cb2a3-5364-4c19-b013-eb98bb20982b)
