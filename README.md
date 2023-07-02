@@ -16,8 +16,7 @@ I honestly don't put effort on updating the readme, so don't expect me to add th
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/crash"))()
 ```
 
-[RCS](https://raw.githubusercontent.com/wtfplayer/redemption/main/crash)
-(SOURCE OBFUSCATED!)
+[SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/crash)
 
 
 ![crash](https://github.com/wtfplayer/redemption/assets/136761546/0a4cb2a3-5364-4c19-b013-eb98bb20982b)
