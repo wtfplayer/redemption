@@ -16,7 +16,12 @@ I honestly don't put effort on updating the readme, so don't expect me to add th
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/crash"))()
 ```
 
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/crashv2"))()
+```
+
 [SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/crash)
 
+[SOURCE OBFUSCATED V2](https://raw.githubusercontent.com/wtfplayer/redemption/main/crashv2)
 
 ![crash](https://github.com/wtfplayer/redemption/assets/136761546/0a4cb2a3-5364-4c19-b013-eb98bb20982b)
