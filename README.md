@@ -1,9 +1,10 @@
+Owner - https://www.roblox.com/users/3784100047/profile
+
 # Starting
 I'll be posting scripts each month into this repository and adding the information in the readme.
 
 The scripts will be put into sections. The scripts I put into here are meant for pranking in irl and trolling.
 Don't go around talking about this before they get patched 💀 No one want's scripts to get patched ;)
-Owner - https://www.roblox.com/users/3784100047/profile
 
 # Crash Script Info
 The "crash" script, that basically just makes a fake screen that makes it look like you're banned but you're really not. (good for trolling)
