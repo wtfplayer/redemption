@@ -14,4 +14,7 @@ loadstring(game:HttpGet("raw.githubusercontent.com/wtfplayer/redemption/main/cra
 [RCS](https://raw.githubusercontent.com/wtfplayer/redemption/main/crash)
 (OBFUSCATED)
 
-![rcdexample]([https://github.com/dex4tw/RejectCharacterDeletions/assets/121840104/30c4d988-542c-4e4d-9312-083a86a81fb5](https://github.com/wtfplayer/redemption/assets/136761546/9e408638-8ee4-4127-aed9-749be3948ad5)https://github.com/wtfplayer/redemption/assets/136761546/9e408638-8ee4-4127-aed9-749be3948ad5)
+
+![rcdexample](https://github.com/wtfplayer/redemption/assets/136761546/9e408638-8ee4-4127-aed9-749be3948ad5)
+
+https://github.com/wtfplayer/redemption/assets/136761546/9e408638-8ee4-4127-aed9-749be3948ad5
