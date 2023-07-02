@@ -10,8 +10,6 @@ The "crash" script, that basically just makes a fake screen that makes it look l
 Contact me on discord (**folixx**) or twitter (**zxfolix**)
 I honestly don't put effort on updating the readme, so don't expect me to add the info right away.
 
-# Script
-
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/crash"))()
 ```
