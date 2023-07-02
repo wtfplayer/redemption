@@ -8,11 +8,11 @@ I honestly don't put effort on updating the readme, so this is probably what is 
 # Scripts
 
 ```lua
-loadstring(game:HttpGet("raw.githubusercontent.com/wtfplayer/redemption/main/crash"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/crash"))()
 ```
 
 [RCS](https://raw.githubusercontent.com/wtfplayer/redemption/main/crash)
 (OBFUSCATED)
 
 
-![RCS](https://github.com/wtfplayer/redemption/assets/136761546/9e408638-8ee4-4127-aed9-749be3948ad5)
+![crash](https://github.com/wtfplayer/redemption/assets/136761546/0a4cb2a3-5364-4c19-b013-eb98bb20982b)
