@@ -17,7 +17,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 ```
 
 [RCS](https://raw.githubusercontent.com/wtfplayer/redemption/main/crash)
-(OBFUSCATED)
+(SOURCE OBFUSCATED!)
 
 
 ![crash](https://github.com/wtfplayer/redemption/assets/136761546/0a4cb2a3-5364-4c19-b013-eb98bb20982b)
