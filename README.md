@@ -1,4 +1,4 @@
-Owner - https://www.roblox.com/users/3784100047/profile
+**Owner** - https://www.roblox.com/users/3784100047/profile
 
 # Starting
 I'll be posting scripts each month into this repository and adding the information in the readme.
