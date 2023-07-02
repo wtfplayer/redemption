@@ -1,4 +1,6 @@
-***The scripts are gonna be in sections***
+# Starting off
+I will be posting script each month into this repository and adding the information in the readme.
+The scripts will be put into sections.
 
 # Crash Script
 The "crash" script, that basically just makes a fake screen that makes it look like you're banned but you're really not. (good for trolling)
