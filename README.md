@@ -1,5 +1,3 @@
-**Owner** - https://www.roblox.com/users/3784100047/profile
-
 # Starting
 I'll be posting scripts each month into this repository and adding the information in the readme.
 
@@ -34,3 +32,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 
 ![nerds](https://github.com/wtfplayer/redemption/assets/136761546/852bf971-067c-4917-81b8-b05191a5ad1e)
+
+**Owner's Roblox** - https://www.roblox.com/users/3784100047/profile
