@@ -1,4 +1,4 @@
-# Starting off
+# Starting
 I'll be posting scripts each month into this repository and adding the information in the readme.
 
 The scripts will be put into sections. The scripts I put into here are meant for pranking in irl and trolling.
