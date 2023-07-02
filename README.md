@@ -1,5 +1,5 @@
 # Starting off
-I will be posting script each month into this repository and adding the information in the readme.
+I will be posting a script each month into this repository and adding the information in the readme.
 
 The scripts will be put into sections. The scripts I put into here are meant for pranking in irl and trolling.
 Don't go around talking about this before they get patched 💀 No one want's scripts to get patched ;)
