@@ -1,5 +1,4 @@
-# Reminder
-I put the scripts into sections!
+# Reminder, the scripts are gonna be in sections.
 
 # Crash Script
 The "crash" script, that basically just makes a fake screen that makes it look like you're banned but you're really not. (good for trolling)
