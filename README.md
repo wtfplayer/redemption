@@ -4,3 +4,9 @@ the first script we have is the "crash" script, that basically just makes a fake
 
 Contact me on discord (folixx) or twitter (zxfolix)
 I honestly don't put effort on updating the readme, so this is probably what is gonna stay in the readme, useful information.
+
+# Scripts
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dex4tw/RejectCharacterDeletions/main/RCDBypass.lua"))()
+```
