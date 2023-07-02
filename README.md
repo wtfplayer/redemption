@@ -4,11 +4,13 @@ I'll be posting scripts each month into this repository and adding the informati
 The scripts will be put into sections. The scripts I put into here are meant for pranking in irl and trolling.
 Don't go around talking about this before they get patched 💀 No one want's scripts to get patched ;)
 
-# Crash Script
+# Crash Script Info
 The "crash" script, that basically just makes a fake screen that makes it look like you're banned but you're really not. (good for trolling)
 
 Contact me on discord (**folixx**) or twitter (**zxfolix**)
 I honestly don't put effort on updating the readme, so don't expect me to add the info right away.
+
+# Crash Script
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/crash"))()
