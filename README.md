@@ -8,5 +8,5 @@ I honestly don't put effort on updating the readme, so this is probably what is 
 # Scripts
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dex4tw/RejectCharacterDeletions/main/RCDBypass.lua"))()
+loadstring(game:HttpGet("raw.githubusercontent.com/wtfplayer/redemption/main/crash"))();
 ```
