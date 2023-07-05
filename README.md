@@ -13,10 +13,10 @@ I honestly don't put effort on updating the readme, so don't expect me to add th
 # Crash Script
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/crash"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/universal.lua"))()
 ```
 
-[SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/crash)
+[SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/universal.lua)
 
 
 ![crash](https://github.com/wtfplayer/redemption/assets/136761546/0a4cb2a3-5364-4c19-b013-eb98bb20982b)
@@ -25,10 +25,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 In the 2nd version the script will execute after 10 seconds (**check console**)
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/crashv2"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/universalv2.lua"))()
 ```
 
-[SOURCE OBFUSCATED V2](https://raw.githubusercontent.com/wtfplayer/redemption/main/crashv2)
+[SOURCE OBFUSCATED V2](https://raw.githubusercontent.com/wtfplayer/redemption/main/universalv2.lua)
 
 
 ![nerds](https://github.com/wtfplayer/redemption/assets/136761546/852bf971-067c-4917-81b8-b05191a5ad1e)
