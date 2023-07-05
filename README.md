@@ -39,7 +39,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/positionfinder.lua"))()
 ```
 
-[SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/positionfinder)
+[SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/positionfinder.lua)
 
 ![positionfinder](https://github.com/wtfplayer/redemption/assets/136761546/b9953f50-d251-4f1c-8256-12012f4efe6d)
 
