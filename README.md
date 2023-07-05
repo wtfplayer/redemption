@@ -33,4 +33,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 ![nerds](https://github.com/wtfplayer/redemption/assets/136761546/852bf971-067c-4917-81b8-b05191a5ad1e)
 
+# Position Finder
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/positionfinder.lua"))()
+```
+
+[SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/positionfinder)
+
+![positionfinder](https://github.com/wtfplayer/redemption/assets/136761546/b9953f50-d251-4f1c-8256-12012f4efe6d)
+
 **Owner's Roblox** - https://www.roblox.com/users/3784100047/profile
