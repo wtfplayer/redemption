@@ -43,4 +43,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 ![positionfinder](https://github.com/wtfplayer/redemption/assets/136761546/b9953f50-d251-4f1c-8256-12012f4efe6d)
 
+# Voidplate
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/literalbaseplate.lua"))()
+```
+
+[SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/literalbaseplate.lua)
+
+![voidplate](https://github.com/wtfplayer/redemption/assets/136761546/0c15e5d6-a1d8-4d31-9218-8310aee58bf9)
+
 **Owner's Roblox** - https://www.roblox.com/users/3784100047/profile
