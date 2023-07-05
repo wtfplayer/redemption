@@ -44,6 +44,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 ![positionfinder](https://github.com/wtfplayer/redemption/assets/136761546/b9953f50-d251-4f1c-8256-12012f4efe6d)
 
 # Voidplate
+**Press E to teleport to the baseplate and press F to teleport to the voidplate** (Only works in literal baseplate)
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/literalbaseplate.lua"))()
