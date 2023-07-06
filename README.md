@@ -43,7 +43,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 # Voidplate
 **Press E to teleport to the baseplate and press F to teleport to the voidplate** (Only works in literal baseplate)
 
-**Credits to voidplate owner** - https://github.com/Raisincains/Scripts
+**Credits to voidplate owner** - https://github.com/Raisincains/Scripts (If you don't know, the script I'm showing you is the revamp.)
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/literalbaseplate.lua"))()
