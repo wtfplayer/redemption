@@ -1,5 +1,5 @@
 # Starting
-I'll be posting my scripts and if I put someone elses into this repository that means it's either my friends script or a revamp of their script and I'll be adding the information in the readme.
+**I'll be posting my scripts and if I put someone elses into this repository that means it's either my friends script or a revamp of their script and I'll be adding the information into the readme.**
 
 The scripts will be put into sections. The scripts I put into here are meant for pranking in irl and trolling.
 Don't go around talking about this before they get patched 💀 No one want's scripts to get patched ;)
