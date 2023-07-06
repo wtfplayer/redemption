@@ -30,7 +30,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 ![nerds](https://github.com/wtfplayer/redemption/assets/136761546/852bf971-067c-4917-81b8-b05191a5ad1e)
 
-# Position Finder
+# Position Finder [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/positionfinder.lua)
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/positionfinder.lua"))()
@@ -40,7 +40,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 ![positionfinder](https://github.com/wtfplayer/redemption/assets/136761546/b9953f50-d251-4f1c-8256-12012f4efe6d)
 
-# Voidplate
+# Voidplate [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/literalbaseplate.lua)
 **Press E to teleport to the baseplate and press F to teleport to the voidplate** (Only works in literal baseplate)
 
 **Credits to voidplate owner** - https://github.com/Raisincains/Scripts (If you don't know, the script I'm showing you is the revamp.)
