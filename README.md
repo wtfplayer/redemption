@@ -19,7 +19,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 ![crash](https://github.com/wtfplayer/redemption/assets/136761546/0a4cb2a3-5364-4c19-b013-eb98bb20982b)
 
 # Crash Script v2 [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/universalv2.lua)
-In the 2nd version the script will execute after 10 seconds (**check console**)
+In the 2nd version the script will execute after 10 seconds
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/universalv2.lua"))()
