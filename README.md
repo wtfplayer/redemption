@@ -1,3 +1,13 @@
+<h3 align="center">Scripts</h3>
+
+  <p align="center">
+    An awesome repository that has great roblox scripts!
+    <br/>
+    Note this project will be updated
+    <br/>
+    <br/>
+    <a href="https://readme.shaankhan.dev"><strong>View Demo »</strong></a>
+    
 # Starting
 I'll be posting scripts into this repository and adding the information in the readme.
 
