@@ -7,7 +7,7 @@ Don't go around talking about this before they get patched 💀 No one want's sc
 Contact me on discord (**folixx**) or twitter (**zxfolix**)
 I honestly don't put effort on updating the readme, so don't expect me to add the info right away.
 
-# Crash Script
+# Crash Script [Universal](https://raw.githubusercontent.com/wtfplayer/redemption/main/universal.lua)
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/universal.lua"))()
@@ -18,7 +18,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 ![crash](https://github.com/wtfplayer/redemption/assets/136761546/0a4cb2a3-5364-4c19-b013-eb98bb20982b)
 
-# Crash Script v2
+# Crash Script v2 [UniversalV2](https://raw.githubusercontent.com/wtfplayer/redemption/main/universalv2.lua)
 In the 2nd version the script will execute after 10 seconds (**check console**)
 
 ```lua
