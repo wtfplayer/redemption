@@ -53,4 +53,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 ![voidplate](https://github.com/wtfplayer/redemption/assets/136761546/0c15e5d6-a1d8-4d31-9218-8310aee58bf9)
 
+# Script Executor [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/scriptexecutor.lua)
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/scriptexecutor.lua"))()
+```
+
+[SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/scriptexecutor.lua)
+
+![se](https://github.com/wtfplayer/redemption/assets/136761546/bfcb6146-fdad-4417-9e66-921605bf88c2)
+
 **Owner's Roblox** - https://www.roblox.com/users/3784100047/profile
