@@ -114,4 +114,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 [SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/krnlnoui.lua)
 
+![2](https://github.com/wtfplayer/redemption/assets/136761546/923dfda2-d61c-4773-9866-e63b98e0fcb3)
+
+# Synape No Ui Execute
+
 **Owner's Roblox** - https://www.roblox.com/users/3784100047/profile
