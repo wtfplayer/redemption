@@ -18,6 +18,16 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 ![crash](https://github.com/wtfplayer/redemption/assets/136761546/0a4cb2a3-5364-4c19-b013-eb98bb20982b)
 
+# Crash Script UI (FIRST ONE) [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/crashscript1ui.lua)
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/crashscript1ui.lua"))()
+```
+
+[SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/crashscript1ui.lua)
+
+![banui](https://github.com/wtfplayer/redemption/assets/136761546/925472f3-942f-4eb3-983a-42e412d383ca)
+
 # Crash Script v2 [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/universalv2.lua)
 In the 2nd version the script will execute after 10 seconds
 
