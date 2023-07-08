@@ -106,4 +106,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 ![3](https://github.com/wtfplayer/redemption/assets/136761546/3afceb98-d8a1-4a6c-80a7-4b7478d15d85)
 
+# Krnl No Ui Execute [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/krnlnoui.lua)
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/krnlnoui.lua"))()
+```
+
+[SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/krnlnoui.lua)
+
 **Owner's Roblox** - https://www.roblox.com/users/3784100047/profile
