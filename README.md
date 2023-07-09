@@ -116,6 +116,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 ![2](https://github.com/wtfplayer/redemption/assets/136761546/923dfda2-d61c-4773-9866-e63b98e0fcb3)
 
-# Synape No Ui Execute
+# Synape No Ui Execute [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/synapsenoui.lua)
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/synapsenoui.lua"))()
+```
+
+[SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/synapsenoui.lua)
+
+![4](https://github.com/wtfplayer/redemption/assets/136761546/86e3bec0-76db-4706-b5db-693bc313f9af)
 
 **Owner's Roblox** - https://www.roblox.com/users/3784100047/profile
