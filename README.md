@@ -96,15 +96,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 ![2](https://github.com/wtfplayer/redemption/assets/136761546/831a5603-5ceb-4858-93d9-2516ee18dab5)
 
-# Synapse Ui [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/synapseui.lua)
-
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/synapseui.lua"))()
-```
-
-[SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/synapseui.lua)
-
-![3](https://github.com/wtfplayer/redemption/assets/136761546/3afceb98-d8a1-4a6c-80a7-4b7478d15d85)
 
 # Krnl No Ui Execute [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/krnlnoui.lua)
 
@@ -116,14 +107,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 ![2](https://github.com/wtfplayer/redemption/assets/136761546/923dfda2-d61c-4773-9866-e63b98e0fcb3)
 
-# Synape No Ui Execute [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/synapsenoui.lua)
-
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/synapsenoui.lua"))()
-```
-
-[SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/synapsenoui.lua)
-
-![4](https://github.com/wtfplayer/redemption/assets/136761546/86e3bec0-76db-4706-b5db-693bc313f9af)
 
 **Owner's Roblox** - https://www.roblox.com/users/3784100047/profile
