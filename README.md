@@ -73,7 +73,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 ![script (2)](https://github.com/wtfplayer/redemption/assets/136761546/f18a5942-9f39-4ab2-beec-a92bb7aefb12)
 
-# Ip Grabber [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/ipgrabber.lua)
+# Ip Grabber [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/ipgrabber.lua) (Outdated)
 **Make sure to put a webhook to replace "url"** I didn't because I cant show my discord.
 
 ```lua
