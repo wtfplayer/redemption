@@ -1,9 +1,14 @@
---scroll down and look for 	if TextBox.Text == "Key" then
+--[[
+   -- scroll down and look for:
+
+	if TextBox.Text == "Key" then
 		Frame.Visible = false
 		wait(0.5)
 		print("Success!")
 	end
 end)
+
+]]--
 
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
