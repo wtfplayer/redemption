@@ -1,5 +1,5 @@
 --[[
-   -- scroll down and look for:
+   scroll down and look for:
 
 	if TextBox.Text == "Key" then
 		Frame.Visible = false
@@ -7,6 +7,9 @@
 		print("Success!")
 	end
 end)
+
+once you've found it change the key to what you want and replace
+"print("Success!")" with your script.
 
 ]]--
 
