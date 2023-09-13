@@ -8,7 +8,7 @@
 	end
 end)
 
-once you've found it change the key to what you want and replace
+once you've found it change the "Key" to what you want and replace
 "print("Success!")" with your script.
 
 ]]--
@@ -105,7 +105,7 @@ TextButton.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextButton.TextSize = 14.000
 TextButton.MouseButton1Click:Connect(function()
 	if TextBox.Text == "Key" then
-		Frame.Visible = false
+		ScreenGui:Destroy()
 		wait(0.5)
 		print("Success!")
 	end
