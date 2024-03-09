@@ -4,7 +4,7 @@ I'll be posting my scripts into this repository, if I put someone elses script i
 The scripts will be put into sections. (sections in the README.md btw)
 
 Contact me on discord (**folixx**) or twitter (**zxfolix**).
-I honestly don't put effort in updating the readme, so don't expect me to add the info right away.
+I honestly don't put effort in updating the readme so don't expect me to add the info right away.
 
 # Fake Ban [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/universal.lua)
 
