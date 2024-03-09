@@ -1,8 +1,7 @@
 # About
-I'll be posting my scripts and if I put someone elses into this repository that means it's either my friends script or a revamp of their script and I'll be adding the information into the readme.
+I'll be posting my scripts into this repository, if I put someone elses script into this repository that just means I revamped that script. I'll be putting some scripts and info into the [README.md](https://github.com/wtfplayer/redemption/blob/main/README.md)
 
-The scripts will be put into sections. The scripts I put into here are meant for pranking in irl and trolling.
-Don't go around talking about this before they get patched 💀 No one want's scripts to get patched ;)
+The scripts will be put into sections. (sections in the README.md btw)
 
 Contact me on discord (**folixx**) or twitter (**zxfolix**)
 I honestly don't put effort on updating the readme, so don't expect me to add the info right away.
