@@ -18,27 +18,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 
 ![crash](https://github.com/wtfplayer/redemption/assets/136761546/0a4cb2a3-5364-4c19-b013-eb98bb20982b)
 
-# Crash Script UI (FIRST ONE) [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/crashscript1ui.lua)
-
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/crashscript1ui.lua"))()
-```
-
-[SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/crashscript1ui.lua)
-
-![banui](https://github.com/wtfplayer/redemption/assets/136761546/925472f3-942f-4eb3-983a-42e412d383ca)
-
-# Crash Script v2 [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/universalv2.lua)
-In the 2nd version the script will execute after 10 seconds
-
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/universalv2.lua"))()
-```
-
-[SOURCE OBFUSCATED V2](https://raw.githubusercontent.com/wtfplayer/redemption/main/universalv2.lua)
-
-
-![nerds](https://github.com/wtfplayer/redemption/assets/136761546/852bf971-067c-4917-81b8-b05191a5ad1e)
 
 # Position Finder [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/positionfinder.lua)
 
@@ -85,16 +64,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/
 [SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/ipgrabber.lua)
 
 ![ipgrab](https://github.com/wtfplayer/redemption/assets/136761546/ba8c6f22-5a4e-4521-b86a-46561bb7de92)
-
-# Krnl Ui [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/krnlui.lua)
-
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfplayer/redemption/main/krnlui.lua"))()
-```
-
-[SOURCE OBFUSCATED](https://raw.githubusercontent.com/wtfplayer/redemption/main/krnlui.lua)
-
-![2](https://github.com/wtfplayer/redemption/assets/136761546/831a5603-5ceb-4858-93d9-2516ee18dab5)
 
 
 # Krnl No Ui Execute [SOURCE](https://raw.githubusercontent.com/wtfplayer/redemption/main/krnlnoui.lua)
