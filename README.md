@@ -1,5 +1,5 @@
 # About
-I'll be posting my scripts into this repository, if I put someone elses script into this repository that just means I revamped that script. I'll be putting some scripts and info into the [README.md](https://github.com/wtfplayer/redemption/blob/main/README.md)
+I'll be posting my scripts into this repository, if I put someone elses script into this repository that just means I revamped their script. I'll be putting some scripts and info into the [README.md](https://github.com/wtfplayer/redemption/blob/main/README.md)
 
 The scripts will be put into sections. (sections in the README.md btw)
 
